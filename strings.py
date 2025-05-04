@@ -1,4 +1,3 @@
-
 BOT_TOKEN_FILENAME = 'token.txt'
 
 # символы, которые используются
