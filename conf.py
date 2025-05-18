@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Project_tg_bot'
-copyright = '2025, Yudin, Kulish'
-author = 'Yudin, Kulish'
+copyright = '2025, Yudin, Kulish, Bresler'
+author = 'Yudin, Kulish, Bresler'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
