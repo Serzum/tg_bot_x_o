@@ -1,6 +1,6 @@
 BOT_TOKEN_FILENAME = 'token.txt'
 
-# символы, которые используются
+# используемые символы
 SYMBOL_X = '❌'
 SYMBOL_O = '⭕'
 SYMBOL_UNDEF = '◻'
